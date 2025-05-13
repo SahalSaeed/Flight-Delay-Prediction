@@ -20,9 +20,8 @@ This project aims to develop ML models that predict flight delays based on weath
 * [Installation](#installation)
 * [Usage](#usage)
 * [Methodology](#methodology)
-* [Results](#results)
 * [Future Work](#future-work)
-* [Contact](#contact)
+
 
 ---
 
@@ -142,35 +141,6 @@ jupyter notebook All-phases.ipynb
 * Classification: Accuracy, Precision, Recall, F1
 * Regression: MAE, RMSE
 * Confusion matrix and class-wise scores
-
----
-
-## Results
-
-*(Insert actual values after running notebook on your dataset)*
-
-### Binary Classification
-
-* Accuracy: 88%
-* Precision: 85%
-* Recall: 84%
-* F1-Score: 84%
-
-### Multi-Class Classification
-
-* Accuracy: 74%
-* Weighted F1-Score: 72%
-* Class-wise Accuracy:
-
-  * No Delay: 85%
-  * Short Delay: 70%
-  * Moderate Delay: 65%
-  * Long Delay: 60%
-
-### Regression
-
-* MAE: 7.5 minutes
-* RMSE: 10.2 minutes
 
 ---
 
