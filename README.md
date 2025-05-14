@@ -72,7 +72,7 @@ flight-delay-prediction/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/flight-delay-prediction.git
+git clone https://github.com/SahalSaeed/Flight-Delay-Prediction.git
 cd flight-delay-prediction
 ```
 
